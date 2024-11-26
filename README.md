@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and Analytics
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Business and Data Related
-- 📫 please reach me out through my LinkedIn https://www.linkedin.com/in/sopandi-sudar-6b664b100/ 
+- 📫 please reach me out through my LinkedIn https://www.linkedin.com/in/sopandi-sopandi-6b664b100/
 - ⚡ Fun fact: my name consists of only one syllable
 
 <!---
